@@ -43,7 +43,7 @@
     "class-validator": "^0.14.0",
     "fastify-file-upload": "^4.0.0",
     "handlebars": "^4.7.9",
-    "nodemailer": "^6.9.9",
+    "nodemailer": "^8.0.5",
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
